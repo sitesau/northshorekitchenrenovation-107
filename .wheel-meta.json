@@ -1,0 +1,22 @@
+{
+  "wheel_id": 965,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-107",
+  "project": "kitchen-renovations-north-shore-council-and-approvals-8fbd4ebd5",
+  "parent_t1_ref": "northshorekitchenrenovation-153",
+  "node_role": "feeder",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations north shore council and approvals",
+  "intended_url": "https://sitesau.github.io/northshorekitchenrenovation-107/",
+  "tier": "T2",
+  "writeback_nonce": "100f7606d8f1efef",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/kitchen-renovations-north-shore-quotes-explained-4c816f2be9dbde/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
